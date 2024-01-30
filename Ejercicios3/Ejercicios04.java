@@ -1,7 +1,7 @@
-package Ejerccios3.java;
-
+package Ejercicios3;
+import java.util.Scanner;
 public class Ejercicios04 {
-    import java.util.Scanner;
+    
 
     public class OperacionesMatematicas {
     
